@@ -1,0 +1,9 @@
+{
+  "name": "TEEKA Math master AI",
+  "description": "An all-in-one AI-powered math teaching and visualization platform featuring real-time voice tutoring, complex reasoning, and high-quality mathematical visualizations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
